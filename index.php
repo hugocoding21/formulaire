@@ -14,7 +14,7 @@
         <div class="contact-box">
             <div class="right">
                 <h2>Contact</h2>
-                <form method="POST" action="form.php">
+                <form method="POST" action="verifier_contact.php">
                     <label for="nom"></label>
                     <input type="text" name="nom" id="nom" class="field" placeholder="Nom" required> <br><br>
                     <label for="prenom"></label>
